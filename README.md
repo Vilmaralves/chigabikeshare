@@ -1,4 +1,3 @@
-# chigabikeshare
 # coding: utf-8
 
 # Começando com os imports
